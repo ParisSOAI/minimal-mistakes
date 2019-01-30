@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Blog"
+    url: https://medium.com/france-school-of-ai/
+  - title: "Cours Gratuit"
+    url: https://www.theschool.ai/courses/
+  - title: "Forum"
+    url: https://forum.schoolofai.fr/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
