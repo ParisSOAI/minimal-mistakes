@@ -156,10 +156,16 @@ footer:
 
 ## Collections
 collections:
-    - deans:
-	people: true
-    - events
-    collections_dir : _collections
+    - deans
+defaults:
+# _deans
+  - scope:
+    path:""
+    type: deans
+  values:
+    layout : single
+    author_profil : false
+    share : true
     
 # Reading Files
 include:
