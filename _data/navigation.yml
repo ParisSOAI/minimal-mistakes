@@ -6,6 +6,8 @@ main:
     url: https://www.theschool.ai/courses/
   - title: "Forum"
     url: https://forum.schoolofai.fr/
+  - title : "Deans"
+    link : /deans.html
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
