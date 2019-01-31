@@ -114,25 +114,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:your.TODOname@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      url: mailto:jeremy.cohen@schoolofai.fr
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "TODOhttps://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "TODOhttps://facebook.com/"
+      url: "https://facebook.com/groups/1950125778619696"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "TODOhttps://github.com/"
+      url: "https://github.com/ParisSOAI/Workshops"
     - label: "Meet Up"
       icon: "fab fa-fw fa-meetup"
-      url: "TODO"
+      url: "https://www.meetup.com/fr-FR/Paris-School-of-AI/"
     - label: "Slack"
       icon: "fab fa-fw fa-slack"
-      url: "TODO"
+      url: "https://programming-wizards.slack.com/messages"
     -
 
 # Site Footer
@@ -140,25 +137,22 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:your.TODOname@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      url: mailto:jeremy.cohen@schoolofai.fr
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "TODOhttps://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "TODOhttps://facebook.com/"
+      url: "https://facebook.com/groups/1950125778619696"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "TODOhttps://github.com/"
+      url: "https://github.com/ParisSOAI/Workshops"
     - label: "Meet Up"
       icon: "fab fa-fw fa-meetup"
-      url: "TODO"
+      url: "https://www.meetup.com/fr-FR/Paris-School-of-AI/"
     - label: "Slack"
       icon: "fab fa-fw fa-slack"
-      url: "TODO"
+      url: "https://programming-wizards.slack.com/messages"
 
 
 # Reading Files
