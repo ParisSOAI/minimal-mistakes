@@ -154,7 +154,11 @@ footer:
       icon: "fab fa-fw fa-slack"
       url: "https://programming-wizards.slack.com/messages"
 
-
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:deans/
+    
 # Reading Files
 include:
   - .htaccess
