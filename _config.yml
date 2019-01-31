@@ -159,6 +159,7 @@ collections:
     - deans:
 	people: true
     - events
+    collections_dir : _collections
     
 # Reading Files
 include:
