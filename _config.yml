@@ -154,7 +154,11 @@ footer:
       icon: "fab fa-fw fa-slack"
       url: "https://programming-wizards.slack.com/messages"
 
-
+## Collections
+collections:
+    - deans:
+	people: true
+    - events
     
 # Reading Files
 include:
